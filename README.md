@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=emin137&fontSize=100)
 
 
-<div align=center><h1>🧩 I LOVE MINT CHOCO! 🌿</h1></div>
+<div align=center><h1> MINT CHOCO! </h1></div>
 
    <div align=center><h1>📚STACKS</h1></div>
   <div align=center> 

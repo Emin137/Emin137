@@ -1,12 +1,15 @@
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=emin137&fontSize=100)
 
 
-	I LOVE MINT CHOCO
-   <div align=center><h1>:wrench: STACKS</h1></div>
-  <div align=center>
-<img src="https://img.shields.io/badge/c#-#00ACC1?style=for-the-badge&logo=C#&logoColor=white”>
-<img  src="https://img.shields.io/badge/unity-#FFFFFF?style=for-the-badge&logo=unity&logoColor=white”>
+<div align=center><h1>🧩 I LOVE MINT CHOCO! 🌿</h1></div>
 
+   <div align=center><h1>📚STACKS</h1></div>
+  <div align=center> 
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+
+<br><br>
 
 [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=em1n137)](https://solved.ac/em1n137)

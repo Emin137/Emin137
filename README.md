@@ -2,8 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Emin&fontSize=100)
 
 
-<div align=center><h1> Game Developer </h1></div>
-
    <div align=center><h1>📚STACKS</h1></div>
   <div align=center> 
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>

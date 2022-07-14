@@ -1,4 +1,4 @@
- Hi, I'm Emin and I'm studying Unity.
+ Hi, I'm Emin and I'm studying Unity Now.
 <h1>📚Studying📚</h1></div>
 <img src="https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>

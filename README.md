@@ -12,7 +12,7 @@
 <img alt="C++" src ="https://img.shields.io/badge/C++-1F1F1F.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emin137)](https://github.com/깃허브아이디/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emin137)](https://github.com/Emin137/github-readme-stats)
 
 
 

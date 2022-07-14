@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=emin137&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Emin&fontSize=100)
 
 
 <div align=center><h1> Game Developer </h1></div>

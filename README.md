@@ -13,6 +13,15 @@
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emin137)](https://github.com/Emin137/github-readme-stats)
+<br>
+
+### :video_game: Playing :video_game:
+
+<img alt="Csharp" src ="https://img.shields.io/badge/lostark-1F1F1F.svg?&style=for-the-badge&logo=&logoColor=white"/>
+<img alt="Csharp" src ="https://img.shields.io/badge/lol-1F1F1F.svg?&style=for-the-badge&logo=&logoColor=white"/>
+
+<br>
+<br>
 
 
 

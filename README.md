@@ -6,8 +6,8 @@
 
 ## :pencil2: Studying :pencil2:
 
-<img alt="Csharp" src ="https://img.shields.io/badge/Csharp-1F1F1F.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
 <img alt="Unity" src ="https://img.shields.io/badge/Unity-1F1F1F.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
+<img alt="Csharp" src ="https://img.shields.io/badge/Csharp-1F1F1F.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
 <img alt="UnrealEngine" src ="https://img.shields.io/badge/Unreal-1F1F1F.svg?&style=for-the-badge&logo=Unreal Engine&logoColor=white"/>
 <img alt="C++" src ="https://img.shields.io/badge/C++-1F1F1F.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
 <br><br>

@@ -1,7 +1,7 @@
 <div align="center">
 안녕하세요, 게임개발자를 목표로 현재는 공부중입니다.
 
-유니티, 언리얼에 관심이 있습니다.
+Unity, Unreal Engine 에 관심이 있어요.
 <br/>
 
 ## :pencil2: Studying :pencil2:
